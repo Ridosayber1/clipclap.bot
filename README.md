@@ -1,0 +1,2 @@
+# clipclap.bot
+Clip.bot
